@@ -1,0 +1,101 @@
+/*!
+ * Start Bootstrap - Shop Homepage (http://startbootstrap.com/)
+ * Copyright 2013-2016 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
+ */
+@import url('https://fonts.googleapis.com/css?family=Roboto+Slab');
+@media screen and (max-width: 500px) {
+    #po {
+        font-size: 1.5em;
+    }
+   
+}
+
+/* sm */
+@media screen and (min-width: 500px) {
+    #po {
+        font-size: 3em;
+    }
+   
+}
+
+/* md */
+@media screen and (min-width: 950px) {
+   #po {
+        font-size: 12px;
+      
+    }
+  
+}
+
+/* lg */
+@media screen and (min-width: 1450px) {
+   #po {
+        font-size: 20px;
+  
+    }
+   
+}
+#po{
+    font-family: 'Roboto Slab', serif;
+    font-weight: normal;
+}
+#pa{
+    font-weight: lighter;
+}
+#hed{
+   font-family: 'Roboto Slab', serif;
+    font-size: 20px;
+}
+.tumimg{
+    padding:15px;
+}
+.a{
+    position: absolute;
+    bottom: 15px;
+    background-color: white;
+    opacity:0.97;
+    height:35%;
+    width:100%;
+}
+.links{
+    
+    color: black;
+}
+h3{
+    opacity:1;
+}
+
+
+
+
+.caption {
+    height: 120px;
+    overflow: hidden;
+}
+
+.caption h4 {
+    white-space: nowrap;
+}
+
+.thumbnail img {
+    width: 100%;
+}
+
+.ratings {
+    padding-right: 10px;
+    padding-left: 10px;
+    color: #d17581;
+}
+
+.thumbnail {
+    padding: 0;
+}
+.thumbnail img{
+   
+}
+.thumbnail .caption-full {
+    padding: 9px;
+    color: #333;
+}
+
